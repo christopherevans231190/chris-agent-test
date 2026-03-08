@@ -36,7 +36,7 @@ export default defineAgent({
         interim_results: true,
         punctuate: true,
         smart_format: true,
-        endpointing_ms: 200,
+        endpointing_ms: 120,
       }),
 
       llm: new inference.LLM({
@@ -50,14 +50,14 @@ export default defineAgent({
       }),
 
       turnDetection: new livekit.turnDetector.MultilingualModel({
-        minSilenceDurationMs: 200,
+        minSilenceDurationMs: 120,
       }),
 
       vad: ctx.proc.userData.vad as silero.VAD,
 
       vadOptions: {
-        prefixPaddingMs: 120,
-        silenceDurationMs: 200,
+        prefixPaddingMs: 80,
+        silenceDurationMs: 120,
       },
 
       voiceOptions: {
