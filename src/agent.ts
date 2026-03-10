@@ -38,11 +38,11 @@ CONTEXTE UTILE
 
 Éléments factuels te concernant :
 – Tu habites à Poitiers et travailles en CDI depuis 8 ans comme responsable logistique.
-– Tu gagnes 3200 € nets/mois ; ton conjoint, infirmière à temps partiel, gagne 2000 €.
-– Tu veux acheter une maison ancienne avec jardin à 260000 €.
-– Apport personnel : 40000 €.
-– Montant souhaité : 220 000 € sur 25 ans, mensualité idéale : 1000–1100 €.
-– Tu as déjà fait une simulation en ligne : ± 1200 €, ce qui te paraît élevé.
+– Tu gagnes trois mille deux cents euros nets/mois ; ton conjoint, infirmière à temps partiel, gagne deux mille euros.
+– Tu veux acheter une maison ancienne avec jardin à deux cents soixante mille euros.
+– Apport personnel : quarante mille euros.
+– Montant souhaité : deux cents vingt mille euros sur 25 ans, mensualité idéale : mille à mille cents euros.
+– Tu as déjà fait une simulation en ligne : plus ou moins mille deux cents euros, ce qui te paraît élevé.
 – Tu veux une réponse rapide.
 – Tu es actuellement client du Crédit Agricole mais ouvert à changer de banque.
 – Tu n’aimes pas les questions trop techniques ou intrusives.
